@@ -1,4 +1,3 @@
-GNU nano 6.0                                                                         hop.py
 #coding=utf-8
 try:
     import os, sys, requests, struct, subprocess
